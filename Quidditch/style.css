@@ -4,3 +4,42 @@
     width: 100%;
     height: 100%;
 }
+#harry{
+    background-image: url(https://www.dailydot.com/wp-content/uploads/dfa/27/acb3d86034f16930e951e21aa9e6f5a6.jpg);
+}
+#pot{
+    background-image: url(https://hpmedia.bloomsbury.com/rep/g/page-background%20-%20product.png);
+    text-align: center;
+    color: black;
+    font-family: 'Playfair Display', serif;
+}
+#huff{
+    background-image: url(https://images.ctfassets.net/bxd3o8b291gf/2O40YeYdkAq6m2SesgYgQm/0bb9b20d77b226fc7cac8e017bb89f64/1.jpg?w=320&h=320&fit=thumb&f=center&q=85);
+    font-size: 22px;
+    color: black;
+    display: inline-block;
+    font-family: 'Playfair Display', serif;
+}
+h2{
+    font-family: 'Inconsolata', monospace;  
+    font-size: 44px; 
+    color: cadetblue
+}
+p,th,td{
+    font-family: 'Poor Story', cursive;
+    font-size: 24px;
+    color: cadetblue
+}
+body{
+    background: linear-gradient(to right, #141e30, #243b55);
+}
+h3{
+    font-family: 'Inconsolata', monospace;  
+    font-size: 34px; 
+    color: cadetblue
+}
+h4{
+    font-family: 'Inconsolata', monospace;  
+    font-size: 24px; 
+    color: cadetblue  
+}
